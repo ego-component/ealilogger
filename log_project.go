@@ -11,7 +11,7 @@ import (
 	"github.com/golang/protobuf/proto"
 	"github.com/pierrec/lz4"
 
-	"github.com/gotomicro/ego-component/elogger/ali/pb"
+	"github.com/ego-component/ealilogger/pb"
 )
 
 const (

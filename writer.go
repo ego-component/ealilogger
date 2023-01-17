@@ -23,7 +23,7 @@ import (
 	"go.uber.org/zap/zapcore"
 	"golang.org/x/net/publicsuffix"
 
-	"github.com/gotomicro/ego-component/elogger/ali/pb"
+	"github.com/ego-component/ealilogger/pb"
 	"github.com/gotomicro/ego/core/eapp"
 	"github.com/gotomicro/ego/core/emetric"
 )
